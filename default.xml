@@ -95,7 +95,8 @@
 
   <!-- HTC One X Tegra things -->
   <project path="device/htc/endeavoru" name="android-device-endeavouru" remote="b2g" revision="master" />
-  <project path="vendor/htc" name="CyanogenMod/proprietary_vendor_htc" remote="github" revision="ics" />
+  <project path="vendor/htc" name="draciel882/android_vendor_htc_endeavoru" remote="github" revision="master" />
+  <project path="external/yaffs2" name="CyanogenMod/android_external_yaffs2" remote="github" revision="ics" />
   <project path="hardware/broadcom/wlan" name="platform/hardware/broadcom/wlan" />
 
 </manifest>
